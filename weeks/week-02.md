@@ -13,6 +13,8 @@ permalink: /weeks/week-02/
 
 放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
 
+![Uploading image.jpeg…]()
+
 ## FRICTION｜摩擦
 
 描述一個沒有如預期發生的瞬間。
