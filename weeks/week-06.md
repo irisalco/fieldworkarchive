@@ -12,7 +12,8 @@ permalink: /weeks/week-06/
 ## TRACE｜痕跡
 
 放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
-w6-1.JPG
+{{ '/assets/images/w6-1.JPG' |
+relative_url }}
 
 ## FRICTION｜摩擦
 
