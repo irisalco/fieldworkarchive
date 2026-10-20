@@ -15,6 +15,8 @@ permalink: /weeks/week-06/
 
 第一天的酸種：還沒起泡，有香香的麵粉味道。
 ![第一天的酸種]({{ '/assets/images/w6-1.JPG' |relative_url }})
+第一天的酸種：還沒餵食前，已經起泡。
+![第二天的酸種]({{ '/assets/images/w6-2.JPG' |relative_url }})
 
 ## FRICTION｜摩擦
 
