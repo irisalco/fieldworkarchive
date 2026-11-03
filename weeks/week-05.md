@@ -8,6 +8,9 @@ permalink: /weeks/week-05/
 # 感測器與資料
 
 > 請保留具體的現場、材料、語句或身體感受。
+>  ![ppt1]({{ '/assets/images/27.JPG' |relative_url }})
+>  ![ppt1]({{ '/assets/images/28.JPG' |relative_url }})
+>   ![ppt1]({{ '/assets/images/29.JPG' |relative_url }}) 
 
 ## TRACE｜痕跡
 
