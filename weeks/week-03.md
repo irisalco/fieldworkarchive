@@ -19,7 +19,7 @@ permalink: /weeks/week-03/
 ![ppt3]({{ '/assets/images/w3-3.JPG' |relative_url }})
 ## FRICTION｜摩擦
 
-我的是做左下角。我是第一個出發的，走到一半筆掉下來，可以發現我的痕跡跟其他組員有明顯不同。
+我的是左下角。我是第一個出發的，走到一半筆掉下來，可以發現我的痕跡跟其他組員有明顯不同。
 ![ppt3]({{ '/assets/images/w3-1.JPG' |relative_url }})
 ## CONNECTION｜連結
 
