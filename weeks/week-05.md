@@ -7,7 +7,6 @@ permalink: /weeks/week-05/
 
 # 感測器與資料
 
-> 請保留具體的現場、材料、語句或身體感受。
 >  ![ppt1]({{ '/assets/images/27.JPG' |relative_url }})
 >  ![ppt1]({{ '/assets/images/28.JPG' |relative_url }})
 >   ![ppt1]({{ '/assets/images/29.JPG' |relative_url }}) 
@@ -18,12 +17,12 @@ permalink: /weeks/week-05/
 
 ## FRICTION｜摩擦
 
-描述一個沒有如預期發生的瞬間。
-
+因為是科技藝術出身，在挑選論文時很自然地把sensor劃分到了電子材料的範圍，沒想到並不是如此。讀下來的感想是作者把感測器拉到了非常宏觀的範圍。
 
 ## CONNECTION｜連結
 
-選擇本週閱讀或課堂案例中的一個概念。它如何改變你對上述瞬間的理解？
+如何創造自己的工具包，如何不被祈使語氣推著走？
+> 如果某樣東西沒被發明，是否就會大大改變如今的世界？世界是由一切隨機和不可預測構成的。
 
 ## NEXT MOVE｜下一步
 
