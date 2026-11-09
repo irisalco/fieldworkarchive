@@ -12,9 +12,9 @@ permalink: /weeks/week-05/
 ## TRACE｜痕跡
 
 放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
-![ppt1]({{ '/assets/images/27.JPG' |relative_url }})
-![ppt1]({{ '/assets/images/28.JPG' |relative_url }})
-![ppt1]({{ '/assets/images/29.JPG' |relative_url }}) 
+![ppt1]({{ '/assets/images/27.jpg' |relative_url }})
+![ppt2]({{ '/assets/images/28.jpg' |relative_url }})
+![ppt3]({{ '/assets/images/29.jpg' |relative_url }}) 
 
 ## FRICTION｜摩擦
 
