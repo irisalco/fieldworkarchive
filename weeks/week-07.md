@@ -40,11 +40,6 @@ https://www.acri.gov.tw/Uploads/Item/bc9291e0-2e83-4812-8a9d-811bf8e9c496.pdf
 
 煩惱：正在調整脫水的化學藥劑比例 不能太脆 灌注要薄
 
-!image.png
-
-!image.png
-
-!image.png
 
 ### Richard Serra 動詞
 
