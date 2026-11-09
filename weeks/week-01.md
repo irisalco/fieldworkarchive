@@ -36,4 +36,4 @@ permalink: /weeks/week-01/
 
 
 
-![共同繪製的教室導航地圖]({{ '/assets/images/facedetect1.jpg' | relative_url }})
+
