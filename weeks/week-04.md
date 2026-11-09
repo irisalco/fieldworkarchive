@@ -19,6 +19,8 @@ permalink: /weeks/week-04/
 
 ![ppt3]({{ '/assets/images/w4-3.JPG' |relative_url }})
 
+### 嗅覺工作坊
+
 <br>
 1巧克力
 2櫻花 蠻好聞
