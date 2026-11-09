@@ -10,8 +10,7 @@ permalink: /weeks/week-05/
 > 
 
 ## TRACE｜痕跡
-
-放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
+本周由我們組進行導讀。設計了一個工作坊：
 ![ppt1]({{ '/assets/images/27.jpg' |relative_url }})
 ![ppt2]({{ '/assets/images/28.jpg' |relative_url }})
 ![ppt3]({{ '/assets/images/29.jpg' |relative_url }}) 
@@ -27,5 +26,4 @@ permalink: /weeks/week-05/
 
 ## NEXT MOVE｜下一步
 
-如果把這個發現轉化成工具、介面、規則、身體技術或作品，你下一步會測試什麼？
-
+> 人無法闡述自己沒體驗過的事物，有時在書寫時會體驗到一種浮空的經驗。一直以來在追求的東西：我的作品該如何落地。至今我沒有解答，帶我希望答案能漸漸明朗。
