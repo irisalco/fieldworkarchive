@@ -16,9 +16,9 @@ permalink: /weeks/week-07/
 
 源於童年在花園拔雜草的經歷
 
+台灣本土雜草圖錄：
 https://www.acri.gov.tw/Uploads/Item/bc9291e0-2e83-4812-8a9d-811bf8e9c496.pdf
 
-仿韓愈祭鱷魚文 https://zh.wikisource.org/zh-hant/祭鱷魚文
 
 #### 作品完整論述
 
