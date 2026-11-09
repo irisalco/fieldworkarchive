@@ -14,12 +14,13 @@ permalink: /weeks/week-05/
 ![ppt1]({{ '/assets/images/27.jpg' |relative_url }})
 ![ppt2]({{ '/assets/images/28.jpg' |relative_url }})
 ![ppt3]({{ '/assets/images/29.jpg' |relative_url }}) 
+![ppt3]({{ '/assets/images/w5-4.JPG' |relative_url }})
 
 可以吃的毛線
 ![ppt3]({{ '/assets/images/w5.JPG' |relative_url }})
 ![ppt3]({{ '/assets/images/w5-1.JPG' |relative_url }})
 ![ppt3]({{ '/assets/images/w5-2.JPG' |relative_url }})
-![ppt3]({{ '/assets/images/w5-4.JPG' |relative_url }})
+
 ## FRICTION｜摩擦
 
 因為是科技藝術出身，在挑選論文時很自然地把sensor劃分到了電子材料的範圍，沒想到並不是如此。讀下來的感想是作者把感測器拉到了非常宏觀的範圍。
