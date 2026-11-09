@@ -39,7 +39,8 @@ https://www.acri.gov.tw/Uploads/Item/bc9291e0-2e83-4812-8a9d-811bf8e9c496.pdf
 樹脂包埋標本
 
 煩惱：正在調整脫水的化學藥劑比例 不能太脆 灌注要薄
- ![ppt1]({{ '/assets/images/mid.png' |relative_url }})
+![名片]({{ '/assets/images/22919.jpg' |relative_url }})
+ ![建模]({{ '/assets/images/mid.png' |relative_url }})
 
 ### Richard Serra 動詞
 
