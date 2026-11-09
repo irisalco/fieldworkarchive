@@ -7,17 +7,20 @@ permalink: /weeks/week-03/
 
 # 路徑、天氣與觸覺
 
-> 請保留具體的現場、材料、語句或身體感受。
+> 如何透過身體感知
+
 ## TRACE｜痕跡
-![ppt3]({{ '/assets/images/w3-1.JPG' |relative_url }})
+
 ![ppt3]({{ '/assets/images/w3-2.PNG' |relative_url }})
-![ppt3]({{ '/assets/images/w3-3.JPG' |relative_url }})
+
 ![ppt3]({{ '/assets/images/w3-4.JPG' |relative_url }})
 ![ppt3]({{ '/assets/images/w3-5.JPG' |relative_url }})
+同學帶的工作坊 組員閉眼正在感受其他組員帶回來的物品
+![ppt3]({{ '/assets/images/w3-3.JPG' |relative_url }})
 ## FRICTION｜摩擦
 
-我是第一個出發的，走到一半筆掉下來，可以發現我的痕跡跟其他組員有明顯不同。
-
+我的是做左下角。我是第一個出發的，走到一半筆掉下來，可以發現我的痕跡跟其他組員有明顯不同。
+![ppt3]({{ '/assets/images/w3-1.JPG' |relative_url }})
 ## CONNECTION｜連結
 
  自製裝置的過程中算是一種重建，如何將一個理念重建為方法學？對我而言是十分迷人的。
