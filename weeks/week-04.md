@@ -11,7 +11,13 @@ permalink: /weeks/week-04/
 
 ## TRACE｜痕跡
 <br>
-同學的工作坊 照片們
+同學設計的工作坊和學習單，來到了人社一館下方的野花園探索。
+![ppt3]({{ '/assets/images/w4.JPG' |relative_url }})
+
+![ppt3]({{ '/assets/images/w4-1.JPG' |relative_url }})
+
+
+![ppt3]({{ '/assets/images/w4-3.JPG' |relative_url }})
 
 <br>
 1巧克力
