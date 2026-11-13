@@ -11,7 +11,10 @@ permalink: /weeks/week-10/
 
 ## TRACE｜痕跡
 
+
+處於種哲學中不斷回返的狀態，
 Life After BOB: The Chalice Study
+被奪取和被竄改的人生
 
 ## FRICTION｜摩擦
 
