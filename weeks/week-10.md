@@ -14,6 +14,7 @@ permalink: /weeks/week-10/
 
 處於種哲學中不斷回返的狀態，
 Life After BOB: The Chalice Study
+https://www.theshed.org/program/142-ian-cheng-life-after-bob
 被奪取和被竄改的人生
 
 ## FRICTION｜摩擦
